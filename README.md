@@ -30,7 +30,7 @@ Install Expo CLI by running `npm install -g expo-cli`.
 
 Installation:
 
-Clone the repository to your local machine using `git clone https://github.com/tianl-h/DineFinder.git`.
+Clone the repository to your local machine using `git clone https://github.com/tianl-h/Mobile_Restaurant_APP.git`.
 Navigate to the project directory and install the required dependencies by running npm install.
 
 Running the App:
