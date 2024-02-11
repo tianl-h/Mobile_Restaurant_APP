@@ -23,17 +23,17 @@ DineFinder is a mobile application developed using React Native, designed to sim
 - **Expo CLI**
 
 ## How to Run the App
-###Prerequisites:
+Prerequisites:
 
 Ensure you have Node.js installed on your system.
-Install Expo CLI by running npm install -g expo-cli.
+Install Expo CLI by running `npm install -g expo-cli`.
 
-###Installation:
+Installation:
 
 Clone the repository to your local machine using `git clone https://github.com/tianl-h/DineFinder.git`.
 Navigate to the project directory and install the required dependencies by running npm install.
 
-###Running the App:
+Running the App:
 
 Start the application by running `npm start`. This command will open up a browser tab; from there, you can run the app on an emulator or your own mobile device using the Expo app.
 
